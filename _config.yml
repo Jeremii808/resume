@@ -24,6 +24,7 @@ github_username:  Jeremii808
 logo: /assets/img/jeremy.jpg
 address: Papaikou, HI 96781
 phone: (808) 557-0971
+show_downloads: true
 
 # Build settings
 markdown: kramdown
